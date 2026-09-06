@@ -1,8 +1,7 @@
-# Infinite Yield
+# Fentyield
 
-The best command line script for roblox.
+its fentyield.
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/78ZuWSq)](https://discord.gg/78ZuWSq)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
@@ -14,11 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 ## Developers
 
-### Creator: [Edge](https://github.com/EdgeIY)
-### Developers: [Moon](https://github.com/LorekeeperZinnia), [Zwolf](https://github.com/luatsuki), [Sleaze](https://github.com/sleaze5), [Toon](https://github.com/Toon-arch), [Peyton](https://github.com/peyton2465), [ATP](https://github.com/ionizedparticle)
-
 ## Usage
-You can learn how to use all the features of this script in [the wiki](https://github.com/EdgeIY/infiniteyield/wiki)!
+You can learn how to use all the features of this script in [the wiki](https://github.com/plus1er/fentyield/wiki)
 
-## Contributing
-There is no specific rules on contributing (as of now) just open a [pull request](https://github.com/EdgeIY/infiniteyield/pulls) and if it checks out we will merge it!
